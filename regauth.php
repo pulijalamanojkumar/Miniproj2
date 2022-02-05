@@ -1,0 +1,19 @@
+<?php
+session_start();
+if(isset($_POST['edc'])){
+	$_SESSION['ID']=4;
+	header("Location:registrationclub.php");
+}
+if(isset($_POST['street'])){
+	$_SESSION['ID']=3;
+	header("Location:registrationclub.php");
+}
+if(isset($_POST['mun'])){
+	$_SESSION['ID']=2;
+	header("Location:registrationclub.php");
+}
+if(isset($_POST['nss'])){
+	$_SESSION['ID']=1;
+	header("Location:registrationclub.php");
+}
+?>

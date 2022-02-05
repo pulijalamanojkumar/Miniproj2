@@ -1,0 +1,63 @@
+@keyframes example {
+ from{top:100px;}
+to{top:0px;}
+}
+.cbitdesc{
+border-style:solid;
+border-color:rgb(51,85,40);
+font-family:Lucida Console;
+font-size:110%;
+color:white;
+background-color:rgba(51,85,40,0.8);
+max-width:40%;
+position:absolute;
+left:55%;
+top:20%;
+}
+.cbitdesc p{
+animation-name:example;
+animation-duration:4s;
+animation-iteration-count:infinite;
+}
+.topmostbar{
+height:100px;
+background-color:rgb(51,85,40);
+border-style:solid;
+border-color:blue;
+position:sticky;
+top:0px;
+}
+.toplistmenu{
+position:absolute;
+top:60px;
+}
+.toplistmenu ul{
+list-style-type:none;
+opacity:0.8;
+}
+.toplistmenu li{
+display:inline;
+}
+.toplistmenu a{
+padding:20px;
+color:white;
+}
+.toplistmenu a:hover{
+color:orange;
+opacity:0.6'
+}
+body{
+  background-image: url('C:/Users/dell/Pictures/cbitimg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+height:800px;
+}
+.loginform{
+padding:20px;
+border-color:orange;
+text-align:center;
+width:20%;
+background-color:rgba(51,85,40,0.5);
+color:black;
+}

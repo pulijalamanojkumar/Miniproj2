@@ -1,0 +1,479 @@
+@keyframes float{
+	0% {
+		box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
+		transform: translatey(0px);
+	}
+	50% {
+		box-shadow: 0 25px 15px 0px rgba(0,0,0,0.2);
+		transform: translatey(-20px);
+	}
+	100% {
+		box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
+		transform: translatey(0px);
+	}
+}
+.topmostbar{
+height:12%;
+width:100%;
+background-color:rgb(51,85,40);
+border-style:solid;
+border-color:rgba(255,165,0,1);
+border-bottom-color:(255,165,0,0.1);
+position:fixed;
+top:0px;
+}
+.topmostbar a{
+	color:white;
+	font-size:120%;
+	position:relative;
+	top:10%;
+	left:90%;
+	padding:5px;
+border-style:hidden;
+background-color:rgb(51,85,40);	
+border-radius:5px;
+}
+.topmostbar img{
+	padding:5px;
+	width:15%;
+	height:100%;
+	position:relative;
+	left:-0.5%;
+	
+}
+.topmostbar a:hover{
+	color:black;
+	background: #E0EAFC;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #CFDEF3, #E0EAFC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+text-decoration: none;
+}
+.kreedalink{
+	  width: 10%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	position:absolute;
+	top:20%;
+	left:40%;
+	background-image:url("logos/kreedalogo.jpg");
+	background-size:100% 100%;
+	height:25%;
+		border-radius:20px;
+}
+.kreedatext{
+	font-family:timesnewroman;
+	padding:10px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+}
+.kreedatext a{
+	color:black;
+	font-size:20px;
+}
+.kreedatext a:hover{
+	color:white;
+	font-size:20px;
+	font-family:timesnewroman;
+	border-radius:10px;
+	background-color:rgba(51,85,40,0.9);
+	padding:15px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+	animation-name:float;
+	animation-duration:0.9s;
+	
+	
+}
+.geethilink{
+	  width: 10%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	position:absolute;
+	top:20%;
+	left:52%;
+	background-image:url("logos/geethilogo.jpeg");
+	background-size:100% 100%;
+	height:25%;
+		border-radius:20px;
+	
+}
+.geethitext{
+	font-family:timesnewroman;
+	padding:10px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+}
+.geethitext a{
+	color:black;
+	font-size:20px;
+}
+.geethitext a:hover{
+	color:white;
+	font-size:20px;
+	font-family:timesnewroman;
+	border-radius:10px;
+	background-color:rgba(51,85,40,0.9);
+	padding:15px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+	animation-name:float;
+	animation-duration:0.9s;
+	
+	
+}
+.lasyalink{
+	  width:10%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	position:absolute;
+	top:20%;
+	left:64%;
+	background-image:url("logos/lasyalogo.jpg");
+	background-size:100% 100%;
+	height:25%;
+		border-radius:20px;
+	
+}
+.lasyatext{
+	font-family:timesnewroman;
+	padding:10px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+}
+.lasyatext a{
+	color:black;
+	font-size:20px;
+}
+.lasyatext a:hover{
+	color:white;
+	font-size:20px;
+	font-family:timesnewroman;
+	border-radius:10px;
+	background-color:rgba(51,85,40,0.9);
+	padding:15px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+	animation-name:float;
+	animation-duration:0.9s;
+	
+	
+}
+.srujanalink{
+	  width:10%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	position:absolute;
+	top:20%;
+	left:76%;
+	background-image:url("logos/srujanalogo.jpg");
+	background-size:100% 100%;
+	height:25%;
+		border-radius:20px;
+}
+.srujanatext{
+	font-family:timesnewroman;
+	padding:10px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+}
+.srujanatext a{
+	color:black;
+	font-size:20px;
+}
+.srujanatext a:hover{
+	color:white;
+	font-size:20px;
+	font-family:timesnewroman;
+	border-radius:10px;
+	background-color:rgba(51,85,40,0.9);
+	padding:15px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+	animation-name:float;
+	animation-duration:0.9s;
+	
+	
+}
+.chaayalink{
+	  width:10%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	position:absolute;
+	top:20%;
+	left:88%;
+	background-image:url("logos/chaayalogo.jpg");
+	background-size:100% 100%;
+	height:25%;
+	border-radius:20px;
+	
+}
+.chaayatext{
+	font-family:timesnewroman;
+	padding:10px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+}
+.chaayatext a{
+	color:black;
+	font-size:20px;
+}
+.chaayatext a:hover{
+	color:white;
+	font-size:20px;
+	font-family:timesnewroman;
+	border-radius:10px;
+	background-color:rgba(51,85,40,0.9);
+	padding:15px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+	animation-name:float;
+	animation-duration:0.9s;
+	
+	
+}
+.commulink{
+	  width:10%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	position:absolute;
+	top:60%;
+	left:40%;
+	background-image:url("logos/commulogo.jpg");
+	background-size:100% 100%;
+	height:25%;
+	border-radius:20px;
+	
+}
+.commutext{
+	font-family:timesnewroman;
+	padding:10px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+}
+.commutext a{
+	color:black;
+	font-size:20px;
+}
+.commutext a:hover{
+	color:white;
+	font-size:20px;
+	font-family:timesnewroman;
+	border-radius:10px;
+	background-color:rgba(51,85,40,0.9);
+	padding:15px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+	animation-name:float;
+	animation-duration:0.9s;
+	
+	
+}
+.nsslink{
+	  width:10%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	position:absolute;
+	top:60%;
+	left:52%;
+	background-image:url("logos/commulogo.jpg");
+	background-size:100% 100%;
+	height:25%;
+	border-radius:20px;
+	
+}
+.nsstext{
+	font-family:timesnewroman;
+	padding:10px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+}
+.nsstext a{
+	color:black;
+	font-size:20px;
+}
+.nsstext a:hover{
+	color:white;
+	font-size:20px;
+	font-family:timesnewroman;
+	border-radius:10px;
+	background-color:rgba(51,85,40,0.9);
+	padding:15px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+	animation-name:float;
+	animation-duration:0.9s;
+	
+	
+}
+.munlink{
+	  width:10%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	position:absolute;
+	top:60%;
+	left:64%;
+	background-image:url("logos/commulogo.jpg");
+	background-size:100% 100%;
+	height:25%;
+	border-radius:20px;
+	
+}
+.muntext{
+	font-family:timesnewroman;
+	padding:10px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+}
+.muntext a{
+	color:black;
+	font-size:20px;
+}
+.muntext a:hover{
+	color:white;
+	font-size:20px;
+	font-family:timesnewroman;
+	border-radius:10px;
+	background-color:rgba(51,85,40,0.9);
+	padding:15px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+	animation-name:float;
+	animation-duration:0.9s;
+	
+	
+}
+.streetlink{
+	  width:10%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	position:absolute;
+	top:60%;
+	left:76%;
+	background-image:url("logos/commulogo.jpg");
+	background-size:100% 100%;
+	height:25%;
+	border-radius:20px;
+	
+}
+.streettext{
+	font-family:timesnewroman;
+	padding:10px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+}
+.streettext a{
+	color:black;
+	font-size:20px;
+}
+.streettext a:hover{
+	color:white;
+	font-size:20px;
+	font-family:timesnewroman;
+	border-radius:10px;
+	background-color:rgba(51,85,40,0.9);
+	padding:15px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+	animation-name:float;
+	animation-duration:0.9s;
+	
+	
+}
+.edclink{
+	  width:10%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	position:absolute;
+	top:60%;
+	left:88%;
+	background-image:url("logos/commulogo.jpg");
+	background-size:100% 100%;
+	height:25%;
+	border-radius:20px;
+	
+}
+.edctext{
+	font-family:timesnewroman;
+	padding:10px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+}
+.edctext a{
+	color:black;
+	font-size:20px;
+}
+.edctext a:hover{
+	color:white;
+	font-size:20px;
+	font-family:timesnewroman;
+	border-radius:10px;
+	background-color:rgba(51,85,40,0.9);
+	padding:15px;
+	position:relative;
+	left:0%;
+	top:105%;	
+	text-align:center;
+	animation-name:float;
+	animation-duration:0.9s;
+	
+	
+}
+.carouselbackground{
+	width:40%;
+	height:60%;
+	border-radius:30px;
+	position:fixed;
+	top:150px;
+	left:-10%;
+	border-style:hidden;
+	background-color:rgba(51,85,40,0.9);
+}
+#myCarousel{
+	border-radius:20px;
+	position:absolute;
+	top:10%;
+	left:30%;
+	width:85%;
+}
+
+.bottommostbar{
+	position:absolute;
+	bottom:0px;
+	color:red;
+	width:100%;
+	height:50px;
+	background-color:#b2beb5;
+}
+body{
+	background-image:url("logos/download.png")
+}
+
+

@@ -1,0 +1,985 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home - CBIT</title>
+<meta charset='utf-8'>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!---Styles--->
+<link rel="stylesheet" type="text/css" href="https://www.cbit.ac.in/wp-content/themes/CBIT/css/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://www.cbit.ac.in/wp-content/themes/CBIT/css/styles.css"/>
+<link rel="stylesheet" type="text/css" href="https://www.cbit.ac.in/wp-content/themes/CBIT/css/unslider.css"/>
+<link rel="stylesheet" type="text/css" href="https://www.cbit.ac.in/wp-content/themes/CBIT/css/owl.carousel.min.css"/>
+<!--fonts url-->
+<link rel="stylesheet" type="text/css" href="https://www.cbit.ac.in/wp-content/themes/CBIT/css/font-awesome.min.css"/>
+
+<!--Favicon-->
+<link rel="icon" type="image/png" href="favicon/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="favicon/favicon-16x16.png" sizes="16x16" />
+
+	<!-- This site is optimized with the Yoast SEO plugin v14.0.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Home - CBIT</title>
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.cbit.ac.in/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home - CBIT" />
+	<meta property="og:url" content="https://www.cbit.ac.in/" />
+	<meta property="og:site_name" content="CBIT" />
+	<meta property="article:publisher" content="https://www.facebook.com/CBIThyderabad/" />
+	<meta property="article:modified_time" content="2020-03-14T04:42:31+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@CBIThyd" />
+	<meta name="twitter:site" content="@CBIThyd" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.cbit.ac.in/#organization","name":"CBIT Hyderabad","url":"https://www.cbit.ac.in/","sameAs":["https://www.facebook.com/CBIThyderabad/","https://twitter.com/CBIThyd"],"logo":{"@type":"ImageObject","@id":"https://www.cbit.ac.in/#logo","inLanguage":"en-US","url":"https://www.cbit.ac.in/wp-content/uploads/2020/01/logo.png","width":2813,"height":839,"caption":"CBIT Hyderabad"},"image":{"@id":"https://www.cbit.ac.in/#logo"}},{"@type":"WebSite","@id":"https://www.cbit.ac.in/#website","url":"https://www.cbit.ac.in/","name":"CBIT","description":"India&#039;s Top Engineering &amp; Management College","publisher":{"@id":"https://www.cbit.ac.in/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.cbit.ac.in/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.cbit.ac.in/#webpage","url":"https://www.cbit.ac.in/","name":"Home - CBIT","isPartOf":{"@id":"https://www.cbit.ac.in/#website"},"about":{"@id":"https://www.cbit.ac.in/#organization"},"datePublished":"2019-01-03T06:38:06+00:00","dateModified":"2020-03-14T04:42:31+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.cbit.ac.in/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<meta property="og:title" content="Home"/>
+<meta property="og:description" content=""/>
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Home"/>
+<meta name="twitter:description" content=""/>
+<meta name="author" content="Admin"/>
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.cbit.ac.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.cbit.ac.in/wp-includes/css/dist/block-library/style.min.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.cbit.ac.in/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://www.cbit.ac.in/wp-content/plugins/tablepress/css/default.min.css?ver=1.11' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.cbit.ac.in/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.cbit.ac.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.cbit.ac.in/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.cbit.ac.in/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.cbit.ac.in/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.4" />
+<link rel='shortlink' href='https://www.cbit.ac.in/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.cbit.ac.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cbit.ac.in%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.cbit.ac.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cbit.ac.in%2F&#038;format=xml" />
+<link rel="icon" href="https://www.cbit.ac.in/wp-content/uploads/2019/03/2019-03-12.png" sizes="32x32" />
+<link rel="icon" href="https://www.cbit.ac.in/wp-content/uploads/2019/03/2019-03-12.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.cbit.ac.in/wp-content/uploads/2019/03/2019-03-12.png" />
+<meta name="msapplication-TileImage" content="https://www.cbit.ac.in/wp-content/uploads/2019/03/2019-03-12.png" />
+</head>
+<body data-rsssl=1>
+<!-----header----->
+<header>
+    <div class="top-header">
+        <div class="header">				
+			<nav class="navbar navbar-inverse">
+			  <div class="container-fluid">
+				<div class="navbar-header">
+				  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#topNavbar">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>                        
+				  </button>
+				  <!--<a class="navbar-brand" href="index.html"><img src="images/logo.png"></a>-->
+				</div>
+				<div class="collapse navbar-collapse" id="topNavbar">
+				  <div class="menu-top-header-menu-container"><ul id="menu-top-header-menu" class="nav navbar-nav navbar-right"><li id="menu-item-4047" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4047"><a href="https://www.cbit.ac.in/current_students/carona-instructions/">Covid Update</a></li>
+<li id="menu-item-757" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-757"><a href="https://www.cbit.ac.in//current_students/aicte-mandatory-info/">Mandatory Disclosures</a></li>
+<li id="menu-item-887" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-887"><a href="https://erp.cbit.org.in/">Student Info</a></li>
+<li id="menu-item-2753" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2753"><a href="https://www.cbit.ac.in/about_post/aec-coe/">AEC &#038; COE</a></li>
+<li id="menu-item-693" class="menu-item menu-item-type-post_type menu-item-object-about_post menu-item-693"><a href="https://www.cbit.ac.in/about_post/nirf/">NIRF/ARIIA</a></li>
+<li id="menu-item-5117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5117"><a href="https://www.cbit.ac.in/about_post/nisp/">NISP</a></li>
+<li id="menu-item-694" class="menu-item menu-item-type-post_type menu-item-object-about_post menu-item-694"><a href="https://www.cbit.ac.in/about_post/naac/">NAAC</a></li>
+<li id="menu-item-211" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211"><a target="_blank" rel="noopener noreferrer" href="https://www.cbit.ac.in/library_post/library/">Library</a></li>
+<li id="menu-item-4141" class="menu-item menu-item-type-post_type menu-item-object-current_students menu-item-4141"><a href="https://www.cbit.ac.in/current_students/recruitment/">RECRUITMENT</a></li>
+<li class="login-menu">
+        <a href="#">
+        <span class="login-highlight">Login</span></a></li>
+        <li class="search-menu">
+           <div class="hidden-search">
+               <input type="text" placeholder="Search">
+            </div>
+           <a class="search-click" href="#">
+               <i class="fa fa-search" aria-hidden="true"></i>
+           </a>
+        </li></ul></div>				</div>
+			  </div>
+			</nav>
+		</div>
+    </div>
+    <div class="bottom-header">
+        <div class="header">				
+			<nav class="navbar navbar-inverse">
+			  <div class="container-fluid">
+				<div class="navbar-header">
+				  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bottomNavbar">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>                        
+				  </button>
+				  <a class="navbar-brand" href="https://www.cbit.ac.in"><img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/logo.png"></a>
+				</div>
+				<div class="collapse navbar-collapse" id="bottomNavbar">                 
+                 <ul id="menu-header-menu" class="nav navbar-nav navbar-right"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-about_post menu-item-64 nav-item"><a title="About" href="https://www.cbit.ac.in/about_post/about/" class="nav-link">About</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-academic_post menu-item-79 nav-item"><a title="Academics" href="https://www.cbit.ac.in/academic_post/academic/" class="nav-link">Academics</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-admission_post menu-item-110 nav-item"><a title="Admissions" href="https://www.cbit.ac.in/admission_post/admissions/" class="nav-link">Admissions</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-campuslife_post menu-item-115 nav-item"><a title="Campus Life" href="https://www.cbit.ac.in/campuslife_post/campus-life/" class="nav-link">Campus Life</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-669" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669 nav-item"><a title="CDC" href="https://www.cbit.ac.in//placement_post/placement/" class="nav-link">CDC</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-187" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187 nav-item"><a title="Office" href="https://www.cbit.ac.in//about_post/683/" class="nav-link">Office</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-research_post menu-item-526 nav-item"><a title="R &#038; E" href="https://www.cbit.ac.in/research_post/research-consultency/" class="nav-link">R &#038; E</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-189 nav-item"><a title="Alumni" target="_blank" href="https://www.cbit.ac.in/about_post/almuni/" class="nav-link">Alumni</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3428 nav-item"><a title="FIT-INDIA" href="https://www.cbit.ac.in/fit-india/" class="nav-link">FIT-INDIA</a></li>
+</ul>				</div>
+			  </div>
+			</nav>
+		</div>
+    </div>
+</header>
+<!-----header----->
+
+
+<!-----banner----->
+<div id="banner">
+    <div class="banner">
+        <ul>
+            
+                        <li>
+                <img width="1220" height="450" src="https://www.cbit.ac.in/wp-content/uploads/2021/02/SUDHEE-21-Banner.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.cbit.ac.in/wp-content/uploads/2021/02/SUDHEE-21-Banner.jpg 1220w, https://www.cbit.ac.in/wp-content/uploads/2021/02/SUDHEE-21-Banner-300x111.jpg 300w, https://www.cbit.ac.in/wp-content/uploads/2021/02/SUDHEE-21-Banner-1024x378.jpg 1024w, https://www.cbit.ac.in/wp-content/uploads/2021/02/SUDHEE-21-Banner-768x283.jpg 768w" sizes="(max-width: 1220px) 100vw, 1220px" />            </li>
+            
+                       <li>
+                <img width="2040" height="831" src="https://www.cbit.ac.in/wp-content/uploads/2019/03/1-min-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.cbit.ac.in/wp-content/uploads/2019/03/1-min-2.jpg 2040w, https://www.cbit.ac.in/wp-content/uploads/2019/03/1-min-2-300x122.jpg 300w, https://www.cbit.ac.in/wp-content/uploads/2019/03/1-min-2-768x313.jpg 768w, https://www.cbit.ac.in/wp-content/uploads/2019/03/1-min-2-1024x417.jpg 1024w" sizes="(max-width: 2040px) 100vw, 2040px" />            </li>
+            
+                       <li>
+                <img width="1226" height="514" src="https://www.cbit.ac.in/wp-content/uploads/2019/03/2-e1567851570819.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="cbit and curtin university MOU" srcset="https://www.cbit.ac.in/wp-content/uploads/2019/03/2-e1567851570819.jpg 1226w, https://www.cbit.ac.in/wp-content/uploads/2019/03/2-e1567851570819-300x126.jpg 300w, https://www.cbit.ac.in/wp-content/uploads/2019/03/2-e1567851570819-768x322.jpg 768w, https://www.cbit.ac.in/wp-content/uploads/2019/03/2-e1567851570819-1024x429.jpg 1024w" sizes="(max-width: 1226px) 100vw, 1226px" />            </li>
+            
+                   </ul>
+    </div>
+    <div class="ban-social">
+        <ul>
+            <li><a href="https://www.facebook.com/CBIThyderabad/"><span><i class="fa fa-facebook" aria-hidden="true"></i></span></a></li>
+            <li><a href="https://www.instagram.com/cbithyderabad/"><span><i class="fa fa-instagram" aria-hidden="true"></i></span></a></li>
+            <li><a href="https://twitter.com/CBIThyd"><span><i class="fa fa-twitter" aria-hidden="true"></i></span></a> <a href="#" class="lts-txt">Let's talk social</a> <a class="hascb" href="#">#CBIT</a></li>
+        </ul>
+    </div>
+</div>
+<!-----banner----->
+
+
+<!-----main-content----->
+<div id="main-content">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 col-sm-4">
+                <div class="events-col">
+                    <p class="ec-heading">Events</p>
+                    <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/event-post.jpg">
+                    <div class="events-slider">
+                        <ul>
+                                                     
+                            
+                                                        
+                                                                <li>
+                                                                
+                                    <a href="https://www.cbit.ac.in/events_post/sudhee-21/">
+                                        <div class="es-inner">
+                                            <span class="es-left">
+                                                <p class="month">Mar</p>
+                                                <p class="date">03</p>
+                                                <p class="status"></p>
+                                            </span>
+                                            <span class="es-right">
+                                                SUDHEE 21                                            </span>
+                                        </div>
+                                    </a>
+                                    
+                                                                                        
+                            
+                                                        
+                            
+                            
+                            
+                                                        
+                            
+                                                    
+                            
+                                                        
+                                                                
+                                    <a href="https://www.cbit.ac.in/events_post/aicte-sttp-phase-iii-by-eee-department/">
+                                        <div class="es-inner">
+                                            <span class="es-left">
+                                                <p class="month">Feb</p>
+                                                <p class="date">22</p>
+                                                <p class="status"></p>
+                                            </span>
+                                            <span class="es-right">
+                                                AICTE -STTP-Phase-III by EEE Department...                                            </span>
+                                        </div>
+                                    </a>
+                                    
+                                                                                        
+                            
+                                                        
+                            
+                            
+                            
+                                                        
+                            
+                                                    
+                            
+                                                        
+                                                                
+                                    <a href="https://www.cbit.ac.in/events_post/a-webinar-on-building-product-portfolios-through-innovation-2/">
+                                        <div class="es-inner">
+                                            <span class="es-left">
+                                                <p class="month">Feb</p>
+                                                <p class="date">06</p>
+                                                <p class="status"></p>
+                                            </span>
+                                            <span class="es-right">
+                                                A Webinar on “Building product portfol...                                            </span>
+                                        </div>
+                                    </a>
+                                    
+                                                                                        
+                            
+                                                        
+                            
+                            
+                            
+                                                        
+                            
+                                                    
+                            
+                                                        
+                                                                
+                                    <a href="https://www.cbit.ac.in/events_post/5560/">
+                                        <div class="es-inner">
+                                            <span class="es-left">
+                                                <p class="month">April</p>
+                                                <p class="date">03</p>
+                                                <p class="status"></p>
+                                            </span>
+                                            <span class="es-right">
+                                                1st INTERNATIONAL E-CONFERENCE ON &#8220...                                            </span>
+                                        </div>
+                                    </a>
+                                    
+                                 
+                                </li>
+                                                                                        
+                            
+                                                        
+                            
+                            
+                            
+                                                        
+                            
+                                                    
+                            
+                                                        
+                            
+                                                        
+                                                                <li>
+                                                                
+                                    <a href="https://www.cbit.ac.in/events_post/1st-international-e-conference-on-developments-in-sustainable-materials-manufacturing-and-energy-engineering-icdsme-2021/">
+                                        <div class="es-inner">
+                                            <span class="es-left">
+                                                <p class="month">April</p>
+                                                <p class="date">03</p>
+                                                <p class="status"></p>
+                                            </span>
+                                            <span class="es-right">
+                                                1st INTERNATIONAL E-CONFERENCE ON  DEVEL...                                            </span>
+                                        </div>
+                                    </a>
+                                    
+                                                                                        
+                            
+                            
+                            
+                                                        
+                            
+                                                    
+                            
+                                                        
+                            
+                                                        
+                                                                
+                                    <a href="https://www.cbit.ac.in/events_post/a-webinar-on-demystifying-patents/">
+                                        <div class="es-inner">
+                                            <span class="es-left">
+                                                <p class="month">Jan</p>
+                                                <p class="date">30</p>
+                                                <p class="status"></p>
+                                            </span>
+                                            <span class="es-right">
+                                                A Webinar on &#8220;DEMYSTIFYING PATENTS&#8221;                                            </span>
+                                        </div>
+                                    </a>
+                                    
+                                                                                        
+                            
+                            
+                            
+                                                        
+                            
+                                                    
+                            
+                                                        
+                            
+                                                        
+                                                                
+                                    <a href="https://www.cbit.ac.in/events_post/a-webinar-on-building-product-portfolios-through-innovation/">
+                                        <div class="es-inner">
+                                            <span class="es-left">
+                                                <p class="month">Jan</p>
+                                                <p class="date">30</p>
+                                                <p class="status"></p>
+                                            </span>
+                                            <span class="es-right">
+                                                A webinar on &#8220;Building product por...                                            </span>
+                                        </div>
+                                    </a>
+                                    
+                                                                                        
+                            
+                            
+                            
+                                                        
+                            
+                                                    
+                            
+                                                        
+                            
+                                                        
+                                                                
+                                    <a href="https://www.cbit.ac.in/events_post/aicte-atal-online-fdp-on-quantum-computing-18th-22nd-january-2021-dept-of-maths/">
+                                        <div class="es-inner">
+                                            <span class="es-left">
+                                                <p class="month">Jan</p>
+                                                <p class="date">18</p>
+                                                <p class="status"></p>
+                                            </span>
+                                            <span class="es-right">
+                                                AICTE ATAL Online FDP on QUANTUM COMPUTI...                                            </span>
+                                        </div>
+                                    </a>
+                                    
+                                 
+                                </li>
+                                                                                        
+                            
+                            
+                            
+                                                        
+                            
+                                                    
+                            
+                                                        
+                            
+                                                        
+                            
+                            
+                            
+                                                        
+                                                                <li>
+                                                                
+                                    <a href="https://www.cbit.ac.in/events_post/aicte-atal-fdp-on-blockchain-technologies-and-its-application-04th-08th-january-2021-dept-of-cse/">
+                                        <div class="es-inner">
+                                            <span class="es-left">
+                                                <p class="month">Jan</p>
+                                                <p class="date">04</p>
+                                                <p class="status"></p>
+                                            </span>
+                                            <span class="es-right">
+                                                AICTE ATAL FDP on BLOCKCHAIN &#8211; 04t...                                            </span>
+                                        </div>
+                                    </a>
+                                    
+                                                                                        
+                            
+                                                    
+                            
+                                                        
+                            
+                                                        
+                            
+                            
+                            
+                                                        
+                                                                
+                                    <a href="https://www.cbit.ac.in/events_post/aicte-sponsored-online-sttp-on-data-science-for-bigdata-analytics-in-cloud-using-advanced-tools-23rd-to-28th-november-2020/">
+                                        <div class="es-inner">
+                                            <span class="es-left">
+                                                <p class="month">Dec</p>
+                                                <p class="date">14</p>
+                                                <p class="status"></p>
+                                            </span>
+                                            <span class="es-right">
+                                                AICTE SPONSORED ONLINE STTP on DATA SCIE...                                            </span>
+                                        </div>
+                                    </a>
+                                    
+                                                                                        
+                            
+                                                    
+                            
+                                                        
+                            
+                                                        
+                            
+                            
+                            
+                                                        
+                                                                
+                                    <a href="https://www.cbit.ac.in/events_post/cosc-is-organizing-a-two-day-24-hour-hackathon-on-30th-31st-october-2020/">
+                                        <div class="es-inner">
+                                            <span class="es-left">
+                                                <p class="month">October</p>
+                                                <p class="date">30</p>
+                                                <p class="status"></p>
+                                            </span>
+                                            <span class="es-right">
+                                                COSC is Organizing A Two-Day 24-Hour Hac...                                            </span>
+                                        </div>
+                                    </a>
+                                    
+                                 
+                                </li>
+                                                                                        
+                            
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-4 ncb">
+                <div class="news-col">
+                    <p class="nc-heading">CBIT News</p>
+                    
+                                        <a href="https://www.cbit.ac.in/news/5665/">
+                                        <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                        <p class="nc-p"></p>
+                    <p>Results of BE/B.Tech/MBA/MCA/ME/M.Tech examinations held in Dec 2020</p>
+                    </a>
+                                        <div class="news-slider">
+                        <ul>
+                                                                                        <li>
+                                <div class="row">
+                                                                        <div class="col-md-6">
+                                        <a href="https://www.cbit.ac.in/news/5665/">
+                                        <div class="nws-left">
+                                                                                        <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                                        <p>Results of BE/B.Tech/MBA/MCA/ME/M.Tech examinations held in Dec 2020</p>
+                                        </div>
+                                        </a>
+                                    </div>
+                                                                                                                                    <div class="col-md-6">
+                                        <a href="https://www.cbit.ac.in/news/5640/">
+                                        <div class="nws-left">
+                                                                                        <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                                        <p>M.E/M.TECH II SEM (MAKE UP) EXAM FEB 2021 TIMETABLE</p>
+                                        </div>
+                                        </a>
+                                    </div>
+                                       
+                                </div>
+                            </li>
+                                                                                                                    <li>
+                                <div class="row">
+                                                                        <div class="col-md-6">
+                                        <a href="https://www.cbit.ac.in/news/revaluation-results-2020/">
+                                        <div class="nws-left">
+                                                                                        <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                                        <p>Revaluation Results of BE/B.Tech/MCA/ME/M.Tech examinations held in Sep/Oct/Nov 2020 &nbsp;</p>
+                                        </div>
+                                        </a>
+                                    </div>
+                                                                                                                                    <div class="col-md-6">
+                                        <a href="https://www.cbit.ac.in/news/revised-almanac-dated-25-01-2021/">
+                                        <div class="nws-left">
+                                                                                        <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                                        <p>Revised Almanac BE/B.Tech III to VIII Semesters (2020-2021).</p>
+                                        </div>
+                                        </a>
+                                    </div>
+                                       
+                                </div>
+                            </li>
+                                                                                                                    <li>
+                                <div class="row">
+                                                                        <div class="col-md-6">
+                                        <a href="https://www.cbit.ac.in/news/ek-bharat-shreshtha-bharat/">
+                                        <div class="nws-left">
+                                            <img width="1200" height="900" src="https://www.cbit.ac.in/wp-content/uploads/2021/02/Ek-Bharat-Shreshtha-Bharat-logo-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.cbit.ac.in/wp-content/uploads/2021/02/Ek-Bharat-Shreshtha-Bharat-logo-1.png 1200w, https://www.cbit.ac.in/wp-content/uploads/2021/02/Ek-Bharat-Shreshtha-Bharat-logo-1-300x225.png 300w, https://www.cbit.ac.in/wp-content/uploads/2021/02/Ek-Bharat-Shreshtha-Bharat-logo-1-1024x768.png 1024w, https://www.cbit.ac.in/wp-content/uploads/2021/02/Ek-Bharat-Shreshtha-Bharat-logo-1-768x576.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" />                                            <p>To encourage the faculty/ students and staff/ employees of the Institutions to learn other Indian languages, one sentence with its&hellip;</p>
+                                        </div>
+                                        </a>
+                                    </div>
+                                                                                                                                    <div class="col-md-6">
+                                        <a href="https://www.cbit.ac.in/news/mba-spot-admission-notification/">
+                                        <div class="nws-left">
+                                                                                        <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                                        <p>Spot Admissions into I year MBA(TSICET-2020) Guidelines for Spot Admissions</p>
+                                        </div>
+                                        </a>
+                                    </div>
+                                       
+                                </div>
+                            </li>
+                                                                                </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-4">
+                <!--<div class="college-col">
+                    <p class="cc-heading">College</p>
+                    <img src="/images/image2.jpg">
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of</p>
+                    <a href="">Learn More</a>-->
+                    
+                <div class="deadlines">
+                        <p class="deadlines-hdg">CBIT ANNOUNCEMENTS</p>
+                        <div class="styl">
+                            <ul>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/deloitte-internship-branding-webinar-session-on-16-02-2021/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Deloitte Internship Branding Webinar session on 16.02.2021 &nbsp;</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/department-of-electrical-electronics-engineering-organizing-aicte-sponsored-short-term-training-program-sttp-phase-iii/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>AICTE - Sponsored Short Term Training Program (STTP-Phase-III) on "TRENDS &amp; CHALLENGES OF HYBRID ELECTRIC DRIVE UTILITIES IN TRANSPORT SECTOR" by EEE Department. &nbsp; &nbsp; &nbsp; &nbsp; View Brochure  &nbsp; &nbsp;</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/school-of-management-studies-organizing-one-day-workshop/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>"RECENT ADVANCES AND DISRUPTIVE TECHNOLOGIES IN HRM- ISSUES &amp; CHALLENGES" Workshop by SMS.  view Brochure</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/5623/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Revised Circular regarding the commencement of Classwork for PG</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/cbit-society-boys-hostel-admissions-2020-21/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>CBIT Society Boys Hostel Admissions - 2020-21 Ø  Hostel Admission / Registration starts from : Monday, 8th February 2021   9:00 am onwards Ø  Hostel Fee and other details: Please Click here to download Ø  Hostel Application form: Please click here...</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/5613/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Micron Technology (off Campus) Interview Placement </p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/internship-guidelines/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Internships Guidelines &amp; Affidavit format for Official Internships</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/mrf-ltd-iq-test-placement-on-05-02-2021/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>MRF Ltd IQ Test Placement on 05.02.2021 Click here to know more.</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/placement-information-3/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Honour Laboratories Placement on 29.01.2021.</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/placement-information-2/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Placement schedule on 28.01.2021 Global Edge Software Placement from 9.00 AM onwards, Khumbu Systems Placement from 10.30 AM onwards. Click here for more information.</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/offline-classwork/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Circular-Offline classwork-08-02-2021</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/revised-almanac-2020-21/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Revised Almanac 2020-21</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/placement-information/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Pinclick Placement  on 23.01.2021 VISA Placement on 25.01.2021</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/i-sem-b-e-b-tech-class-test-i-reschedule/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>The Class Test-I(Online) for B.E/B.Tech I-Sem of CIVIL, EEE, MECHANICAL, CHEMICAL, and ECE which was scheduled on 21.01.2021(10.00 am to 10.40 am) will be conducted again on 23.01.2021 (2.30 pm to 3.10 pm)</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/honour-laboratories-placement-on-22-01-2021/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Honour Laboratories Placement on 22.01.2021.</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/infosys-2nd-phase-interview-placement-circular-on-21-01-2021/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Infosys 2nd Phase Interview Placement on 21.01.2021 &nbsp;</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/radiant-appliances-electronics-pvt-ltd-placement-online-exam-on-20-01-2021/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Radiant Appliances Electronics Pvt Ltd Placement online Exam on 20.01.2021</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/student-transport-information-2021/"><img width="640" height="344" src="https://www.cbit.ac.in/wp-content/uploads/2021/01/bus_transport.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.cbit.ac.in/wp-content/uploads/2021/01/bus_transport.jpg 640w, https://www.cbit.ac.in/wp-content/uploads/2021/01/bus_transport-300x161.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />                                <p>Student Transport Information 2021</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/dr-reddys-laboratories-ltd-interview-placement-on-15-01-2021/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Dr Reddys Laboratories Ltd Interview Placement Circular on 15.01.2021</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/circular-detention-list-of-odd-semester-2020-21/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>CIRCULAR - Detention List of Odd Semester 2020-21</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/circular-condonation-list-of-odd-semester-2020-21/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>CIRCULAR - Condonation List of Odd Semester - 2020-21</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/pgecet-2002-admission-convenor-reporting-guidelines-2020/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>PGECET-2002 Admission Convenor Reporting guidelines - 2020</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/circular-extended-last-date-for-exam-fee-payment-for-backlog-exams-dec-2020/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Circular - Extended last date for Exam fee payment for backlog Exams-Dec 2020</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/notification-for-spot-admissions-for-i-year-mba-mca-2020/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Notification for Spot Admissions for I year MBA/MCA (TSICET) - 2020</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/spot-admissions-for-i-year-be-b-tech-biotechnology-bipc-stream-to-be-held-on-29-12-2020/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Spot admissions for I year BE/B.Tech. Biotechnology (BiPC stream) to be held on 29/12/2020</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/alumni-meet-new-youtube-link-25-12-2020/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Alumni Meet New youtube Link - 25-12-2020 https://youtu.be/ddKze7MPTw4</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/list-of-selected-candidates-mba-and-mca-under-b-category-admissions-2020-21/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>List of Selected Candidates MBA and MCA under B Category Admissions, 2020-21</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/mba-mca-b-category-notification-2020-21/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>MBA/MCA B Category Notification 2020-21</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/list-of-selected-candidates-me-m-tech-under-b-category-admissions-2020-21/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>List of Selected Candidates ME/M.Tech under B Category Admissions, 2020-21</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/jaro-education-group-discussion-interviews-placement-circular-on-05-08-12-2020/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Jaro Education Group Discussion &amp; Interviews Placement Circular on 05-08.12.2020</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/master-time-table-group-b-b-e-civil-mechanical-ece-eee-and-b-tech-chemicalsem-i-for-2020-21/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Master Time Table - Group-B [B.E (Civil, Mechanical, ECE &amp; EEE) and B.Tech (Chemical)]Sem -I for 2020-21</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/master-time-table-group-a-b-e-cse-it-aids-and-b-tech-bio-technology-sem-i-for-2020-21/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Master Time Table - Group-A [B.E (CSE, IT, AI&amp;DS) and B.Tech (Bio-Technology)] Sem -I for 2020-21</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/attention-students-i-year-be-b-tech-b-category-student-enrollment-circular/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Attention Students : I year BE/B.Tech B-Category Student Enrollment Circular 2020-21</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/m-e-m-tech-category-b-notification-2020-21/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>M.E./M. Tech Category B Notification 2020-21</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/web-links-for-various-sessions-of-orientation-and-student-induction-programme-sip-first-year-be-b-tech-students-2020-21/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Web Links for Various sessions of Orientation and Student Induction Programme (SIP)- First year BE/B.Tech Students 2020-21</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/links-for-orientation-programme-students/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Links for Orientation Programme - Students 2020-21</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/orientation-programme/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Orientation Programme 2020-21</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/orientation-program-schedule-2020-21/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Orientation Program Schedule - 2020-21</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/spot-admissions-for-vacant-seats-in-ts-eamcet-convenor-quota-and-management-quota-will-be-held-on-23-11-2020-at-cbit-campus/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Spot Admissions for vacant seats in TS EAMCET Convenor Quota and Management Quota will be held on 23.11.2020 at CBIT Campus.</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/spot-admission-guidelines-and-branch-wise-vacancy-positions/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Spot Admission Guidelines and Branch-wise Vacancy Positions dated 20-11-2020</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/gap-inc-technology-center-ppt-online-exam-interviews-placement-circular-on-2-3-12-2020/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Gap Inc. Technology Center PPT, Online Exam &amp; Interviews Placement Circular on 2-3.12.2020</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/list-of-internal-slided-students-convenor-2020-21/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>List of Internal slided students - Convenor Quota 2020-21</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/recruitment-hall-tickets-computer-operator-junior-assistant/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Recruitment Hall tickets - Computer Operator &amp; Junior Assistant</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/raam-group-gd-interviews-placement-circular-on-20-21-11-2020/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Raam Group GD &amp; Interviews Placement Circular on 20 &amp; 21.11.2020</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/schindler-india-internship-placement-interviews-ciruclar-on-20-23-25-11-2020/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Schindler India Internship Placement interviews Ciruclar on 20, 23 &amp; 25.11.2020</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/spot-admissions-for-vacant-seats-in-ts-eamcet-convenor-quota-and-management-quota-will-be-held-on-21-11-2020-at-cbit-campus-detailed-notification-will-be-uploaded-shortly/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>TS EAMCET Convenor Quota 2020 Internal Sliding Notification. Spot Admissions for vacant seats in TS EAMCET Convenor Quota and Management Quota will be held on 21.11.2020 at CBIT Campus. Detailed Notification will be uploaded shortly.</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/technipfmc-ppt-interviews-placement-circular-on-18-11-2020-02-12-2020/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>TechnipFMC PPT &amp; Interviews Placement Circular on 18.11.2020 &amp; 02.12.2020</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/revaluation-of-be-b-tech-viii-semester-main-mba-iv-semester-main-backlog-dated-10-11-2020/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Revaluation of BE/B.Tech VIII Semester (Main) &amp; MBA IV Semester (Main &amp; Backlog) dated 10-11-2020</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/aim-india-pvt-ltd-internship-placement-circular-on-10-11-2020/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>AIM India Pvt Ltd Internship Placement Circular on 10.11.2020</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/admission-notification-skill-based-programmes-under-ugc-nsqf/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Attention : Admission - UGC Skill Based Programmes under NSQF</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/general-guidelines-for-all-the-staff-dated-06-11-2020/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Attention Staff : General Guidelines for all the Staff dated 06-11-2020</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/notification-for-spot-admission-into-b-e-b-tech-courses-for-the-academic-year-2020-21-under-category-b-management-quota/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>Notification for SPOT Admission into B.E/B.Tech Courses for the Academic Year 2020-21 under Category “B” (Management Quota)</p></a>
+                                </li>
+                                                                <li>
+                                <a href="https://www.cbit.ac.in/announcement_post/inout-7-0-indias-largest-community-hackathon/">                                <img src="https://www.cbit.ac.in/wp-content/themes/CBIT/images/placeholder.jpg"  />
+                                                                <p>InOut 7.0 India's Largest Community Hackathon</p></a>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                
+                <p class="explore">Explore CBIT</p>
+                    
+                    <div class="buttonContainer">
+                        <a href="#" target="_blank" class="faLink"></a>
+                        <a class="ctaButton" data-toggle="modal" data-target="#myModal" href="#">Order a prospectus
+                        <span class="iconRight"></span>
+                        <span class="iconRight after"></span></a>
+                    </div>
+                    <div class="buttonContainer">
+                        <a href="#" target="_blank" class="faLink"></a>
+                        <a class="ctaButton" data-toggle="modal" data-target="#myModal" href="#">Book an open day
+                        <span class="iconRight"></span>
+                        <span class="iconRight after"></span></a>
+                    </div>
+                    <div class="buttonContainer">
+                        <a href="#" target="_blank" class="faLink"></a>
+                        <a class="ctaButton" data-toggle="modal" data-target="#myModal" href="#">Apply Now
+                        <span class="iconRight"></span>
+                        <span class="iconRight after"></span></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-----main-content----->
+
+<!-- Modal -->
+  <div class="modal fade expl-btn" id="myModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Enquiry</h4>
+        </div>
+        <div class="modal-body">
+            <div role="form" class="wpcf7" id="wpcf7-f1251-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/#wpcf7-f1251-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="1251" />
+<input type="hidden" name="_wpcf7_version" value="5.1.7" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1251-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+</div>
+<div class="row">
+<div class="col-md-6">
+<div class="form-group">
+                    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name" /></span>
+                </div>
+</p></div>
+<div class="col-md-6">
+<div class="form-group">
+                    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email" /></span>
+                </div>
+</p></div>
+</p></div>
+<div class="row">
+<div class="col-md-6">
+<div class="form-group">
+                    <span class="wpcf7-form-control-wrap tel-253"><input type="tel" name="tel-253" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Phone Number" /></span>
+                </div>
+</p></div>
+<div class="col-md-6">
+<div class="form-group">
+                    <span class="wpcf7-form-control-wrap text-882"><input type="text" name="text-882" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Course Interested In" /></span>
+                </div>
+</p></div>
+</p></div>
+<div class="row">
+<div class="col-md-12">
+<div class="form-group">
+                   <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message"></textarea></span>
+                </div>
+</p></div>
+<div class="col-md-12">
+<div class="form-group">
+                    <input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" />
+                </div>
+</p></div>
+</p></div>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>        </div>
+      </div>
+      
+    </div>
+  </div>
+  
+  
+<!-----footer----->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="f-left-col">
+                    <aside id="text-3" class="widget widget_text">			<div class="textwidget"><p><img class="alignnone size-medium wp-image-1069" src="https://www.cbit.ac.in/wp-content/uploads/2020/01/logo.png" alt="" width="300" height="88" /></p>
+<p class="fl-head">College Contact Info</p>
+<p>Gandipet, Hyderabad, Telangana,<br />
+PIN : 500075<br />
+Phone: 040-24193276<br />
+Mobile: 8466997201<br />
+Email: principal@cbit.ac.in</p>
+</div>
+		</aside>					<a class="cosite" href="http://202.65.141.232/" target="_blank">CBIT Old Website</a>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <aside id="text-5" class="widget widget_text">			<div class="textwidget"><ul class="footer-lists">
+<li><a href="https://www.cbit.ac.in//contact-us/">Contact Us</a></li>
+<li><a href="https://www.cbit.ac.in//academic_post/academic/">Academics </a></li>
+<li><a href="https://www.cbit.ac.in//admission_post/admissions/">Admissions</a></li>
+<li><a href="https://nptel.ac.in/">NPTEL</a></li>
+<li><a href="https://www.cbit.ac.in//placement_post/placement/">Placements</a></li>
+<li><a href="https://swayam.gov.in/">Swayam</a></li>
+<li><a href="https://www.cbit.ac.in//research_post/research-consultency/">Research &amp; Consultancy </a></li>
+<li><a href="http://www.cbit.edugrievance.com/" target="_blank" rel="noopener noreferrer">Online Grievance </a></li>
+<li><a href="https://www.cbit.ac.in/current_students/recruitment/">Recruitment</a></li>
+<li><a href="https://aicte-india.org/feedback/">AICTE Feedback</a></li>
+</ul>
+</div>
+		</aside>                    <div class="bottom-footer">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <ul class="f-scl">
+                                <li><a href="https://www.facebook.com/CBIThyderabad/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.instagram.com/cbithyderabad/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                <li><a href="https://twitter.com/CBIThyd"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.youtube.com/channel/UCqKD0-_EhmdN4nqhuyHFiDQ"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-8">
+                            <p class="f-copy">&copy; 2019 CBIT | Developed by <a href="https://www.iosignite.com/" target="_blank">IOSIGNITE</a></p> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-----footer----->
+
+<!-----script----->
+<script src="https://www.cbit.ac.in/wp-content/themes/CBIT/js/jquery.min.js"></script>
+<script src="https://www.cbit.ac.in/wp-content/themes/CBIT/js/bootstrap.min.js"></script>
+<script src="https://www.cbit.ac.in/wp-content/themes/CBIT/js/custom.js"></script>
+<script src="https://www.cbit.ac.in/wp-content/themes/CBIT/js/unslider.js"></script>
+
+<!--<script src="js/jquery.scrollme.min.js"></script>-->
+<!--<script src="js/owl.carousel.min.js"></script>-->
+<!--<script src="js/scrollreveal.min.js"></script>-->
+<script>
+     //  Unslider
+    $('.styl').unslider({
+            //autoplay: true,
+            delay:3000,
+            loop:true,
+            arrows: {
+            //  Unslider default behaviour
+            next: '<a class="unslider-arrow next"><i class="fa fa-angle-right" aria-hidden="true"></i></a>',
+            prev: '<a class="unslider-arrow prev"><i class="fa fa-angle-left" aria-hidden="true"></i></a>'
+            
+            }
+        });
+</script>
+<!-----script----->
+<script src="https://use.fontawesome.com/8eab209c41.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.cbit.ac.in\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.cbit.ac.in/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.7'></script>
+<script type='text/javascript' src='https://www.cbit.ac.in/wp-includes/js/wp-embed.min.js?ver=5.4.4'></script>
+</body>
+</html><script>
+   
+
+    //  Unslider
+    $('.banner').unslider({
+        autoplay: true,
+        delay:3000,
+        arrows: false,
+        keys: true,
+        dots: true,
+        nav: true,
+        pause: true
+        
+    });
+    
+    //  Eventsslider
+    $('.events-slider').unslider({
+        autoplay: true,
+        delay:5000,
+        arrows: false,
+        keys: true,
+        dots: true,
+        nav: true,
+        pause: true
+        
+    });
+    
+    //  Newsslider
+    $('.news-slider').unslider({
+        autoplay: true,
+        delay:3000,
+        arrows: false,
+        keys: true,
+        dots: true,
+        nav: true,
+        pause: true
+        
+    });
+</script>

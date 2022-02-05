@@ -1,0 +1,48 @@
+<!--cbit_red= rgb(151,27,30)  cbit_green= rgb(51,45,40)-->
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Skill_CBIT</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="C:/Users/dell/Desktop/miniproject/hello.js"></script>
+</head>
+<body>
+<header>
+<div class="topmostbar">
+<div class="toplistmenu">
+  <ul>
+    <li><a href="#" type="button">Chaintanya Kreeda</a></li>
+    <li><a href="#" type="button">Chaitanya Lasya</a></li>
+    <li><a href="#" type="button">Chaitanya Geethi</a></li>
+  </ul>
+</div>
+</div>
+</header>
+<div class="cbitdesc">
+<p>CHAITANYA BHARATHI INSTITUTE OF TECHNOLOGY, established in the Year 1979, esteemed as the Premier Engineering Institute in the States of Telangana and Andhra Pradesh, 
+was promoted by a Group of Visionaries from varied Professions of Engineering, Medical, Legal and Management, with an Objective to facilitate the Best Engineering and 
+Management Education to the Students and contribute towards meeting the need of Skilled and Technically conversant Engineers and Management Professionals, for the Country 
+that embarked on an Economic Growth Plan.
+The Institute, committed to Education and Innovation, started with three-Degree Courses in Engineering for 200 Students and over the 40 Years, has emerged as a Dream Destination for; 
+Students seeking to excel in Engineering and Management Education, Teaching Community to progress with a rewarding Career and Corporates to sourcewell-rounded Engineers.
+
+Stringent Academic Standards, Industry compliant Teaching Methodology, Research Projects from Private and Public Sector Industries in Engineering and Management and Consultancy Practice, enabled the 
+Institute to establish its Identity in the Technical Education and is Ranked No. 1 amongst the Private Engineering Colleges in both the Telugu Speaking States.</p>
+</div>
+<div class="loginform">
+<form action="#" method="POST">
+<label>Username</label>
+<input type="text" name="user" placeholder="username"/>
+<label>Password</label>
+<input type="password" name="pass" placeholder="password"/>
+<input type="submit" value="Submit"/>
+</form>
+</div>
+</body>
+</html>
+
